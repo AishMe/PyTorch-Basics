@@ -1,0 +1,10 @@
+**/__pycache__/
+*/.ipynb_checkpoints/*
+**/.DS_Store
+.history/
+__pypackages__/
+
+# Environments
+**/.venv
+**/env/
+**/venv/
